@@ -1,0 +1,14 @@
+.videoview {
+    width: 640px;
+    height: 480px;
+    border: 1px;
+    border-color: #AFAEAF;
+    border-style: solid;
+}
+
+.chatBox {
+    width: 400px;
+    height: 480px;
+    font-size: 14px;
+}
+
