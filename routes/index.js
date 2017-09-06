@@ -19,7 +19,7 @@ router.get('/', function(req, res, next) {
 });
 
 router.post("/urlCheck", function(req, res, next) {
-    res.send("0");
+    res.send("1");
     res.end();
     return;
 });
